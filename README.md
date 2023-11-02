@@ -32,6 +32,10 @@ THEN I find a concise, descriptive title
   2. Commented out all font families within each element, and created one common class.
   3. Adjusted an id link on the index file, to link correctly.
 
+## Screenshot of Changes Made
+
+![127 0 0 1_5500_prework-study-guide_prework-study-guide_homeowrk_index html (1)](https://github.com/cristinedior/homeowrk/assets/148567509/363f2f2b-5e45-4f90-a05f-54f94b775ee7)
+
 ## License
 This Study Guide Web Application is licensed under the [MIT License](link-to-license). You are free to use, modify, and distribute it for educational purposes.
 >>>>>>> 047f937093f9e45c9770921e883caaac73124675
